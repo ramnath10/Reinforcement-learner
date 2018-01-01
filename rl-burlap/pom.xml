@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.ram.rl.burlap</groupId>
+  <artifactId>rl-burlap</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>RL-Burlap</name>
+  <description>Learning RL with Burlap</description>
+  
+  <dependencies>
+	<!-- https://mvnrepository.com/artifact/edu.brown.cs.burlap/burlap -->
+	<dependency>
+	    <groupId>edu.brown.cs.burlap</groupId>
+	    <artifactId>burlap</artifactId>
+	    <version>3.0.0</version>
+	</dependency>
+  </dependencies>
+  
+</project>
